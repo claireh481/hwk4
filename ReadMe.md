@@ -2,6 +2,7 @@
 
 This is my repository for ECON 470 Homework 4. The repository is organized as follows:
 
+```
 homework2
 │   ReadMe.md
 │   .gitignore
@@ -27,3 +28,4 @@ homework2
 │
 └── data-build/
     ├── hcris-data-build.ipynb
+```
