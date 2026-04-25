@@ -8,8 +8,7 @@ homework2
 │   .gitignore
 │
 ├── data/                      (not tracked in git)
-│   ├── input/                (links to raw data)
-│   └── output/               (analytic datasets)
+│   └── output/                (yearly HCRIS datasets)
 │
 ├── 4.1/       
 │   ├── 4.1analysis.ipynb
