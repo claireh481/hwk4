@@ -3,7 +3,7 @@
 This is my repository for ECON 470 Homework 4. The repository is organized as follows:
 
 ```
-homework2
+hwk4
 │   ReadMe.md
 │   .gitignore
 │
